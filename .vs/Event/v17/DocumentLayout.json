@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vs\\Event Booking System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{185B24FB-3D6D-4D34-B1ED-D599A96F9C57}|EBS_Business\\Business.csproj|d:\\vs\\event booking system\\ebs_business\\clsevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{185B24FB-3D6D-4D34-B1ED-D599A96F9C57}|EBS_Business\\Business.csproj|solutionrelative:ebs_business\\clsevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84241DAE-CA81-4367-BD0F-30B5561D4B04}|DataAccess\\DataAccess.csproj|d:\\vs\\event booking system\\dataaccess\\clseventdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84241DAE-CA81-4367-BD0F-30B5561D4B04}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\clseventdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsEvent.cs",
+              "DocumentMoniker": "D:\\vs\\Event Booking System\\EBS_Business\\clsEvent.cs",
+              "RelativeDocumentMoniker": "EBS_Business\\clsEvent.cs",
+              "ToolTip": "D:\\vs\\Event Booking System\\EBS_Business\\clsEvent.cs",
+              "RelativeToolTip": "EBS_Business\\clsEvent.cs",
+              "ViewState": "AQIAAAAAAADgyszMzMzsvxYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T09:22:08.934Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsEventData.cs",
+              "DocumentMoniker": "D:\\vs\\Event Booking System\\DataAccess\\clsEventData.cs",
+              "RelativeDocumentMoniker": "DataAccess\\clsEventData.cs",
+              "ToolTip": "D:\\vs\\Event Booking System\\DataAccess\\clsEventData.cs",
+              "RelativeToolTip": "DataAccess\\clsEventData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwDMAAACjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T07:41:27.389Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -8,9 +8,9 @@ using System.Threading.Tasks;
 
 namespace DataAccess
 {
-    internal class clsEventData
+    public class clsEventData
     {
-        public int AddNewEvent(string EventName, string Place, DateTime Date, float Price, int Organizer_ID, string ImagePath, int Category_ID)
+        public static int AddNewEvent(string EventName, string Place, DateTime Date, float Price, int Organizer_ID, string ImagePath, int Category_ID)
         {
             int Inserted_ID = -1;
 
@@ -49,7 +49,7 @@ namespace DataAccess
 
             return Inserted_ID;
         }
-        public bool UpdateEvent(int EventID, string EventName, string Place, DateTime Date, float Price, int Organizer_ID, string ImagePath, int Category_ID)
+        public static bool UpdateEvent(int EventID, string EventName, string Place, DateTime Date, float Price, int Organizer_ID, string ImagePath, int Category_ID)
         {
             bool isUpdated = false;
             using (SqlConnection conn = new SqlConnection(clsDataAccessSettings.ConnectionString))
@@ -84,7 +84,7 @@ namespace DataAccess
             }
             return isUpdated;
         }
-        public bool DeleteEvent(int EventID)
+        public static bool DeleteEvent(int EventID)
         {
             bool IsDeleted = false;
             using (SqlConnection conn = new SqlConnection(clsDataAccessSettings.ConnectionString))
@@ -109,7 +109,7 @@ namespace DataAccess
             }
             return IsDeleted;
         }
-        public bool FindEvent(int EventID, ref string EventName, ref string Place, ref DateTime Date, ref float Price, ref int Organizer_ID, ref string ImagePath, ref int Category_ID)
+        public static bool FindEvent(int EventID, ref string EventName, ref string Place, ref DateTime Date, ref float Price, ref int Organizer_ID, ref string ImagePath, ref int Category_ID)
         {
             bool found = false;
 
@@ -145,7 +145,7 @@ namespace DataAccess
 
             return found;
         }
-        public DataTable GetAllEvents()
+        public static DataTable GetAllEvents()
         {
             DataTable dt = new DataTable();
             using (SqlConnection conn = new SqlConnection(clsDataAccessSettings.ConnectionString))
