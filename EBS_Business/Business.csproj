@@ -41,7 +41,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="clsAccount.cs" />
     <Compile Include="clsEvent.cs" />
+    <Compile Include="clsEventCategory.cs" />
     <Compile Include="clsOrganizer.cs" />
     <Compile Include="clsUser.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

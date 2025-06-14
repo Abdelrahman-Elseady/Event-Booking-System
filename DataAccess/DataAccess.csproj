@@ -41,7 +41,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="clsAccountData.cs" />
     <Compile Include="clsDataAccessSettings.cs" />
+    <Compile Include="clsEventCategoryData.cs" />
     <Compile Include="clsEventData.cs" />
     <Compile Include="clsOrganizerData.cs" />
     <Compile Include="clsUserData.cs" />
