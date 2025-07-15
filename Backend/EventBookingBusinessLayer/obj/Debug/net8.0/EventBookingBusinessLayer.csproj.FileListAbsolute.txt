@@ -1,0 +1,16 @@
+D:\vs\Event Booking System\EventBookingBusinessLayer\bin\Debug\net8.0\EventBookingBusinessLayer.deps.json
+D:\vs\Event Booking System\EventBookingBusinessLayer\bin\Debug\net8.0\EventBookingBusinessLayer.dll
+D:\vs\Event Booking System\EventBookingBusinessLayer\bin\Debug\net8.0\EventBookingBusinessLayer.pdb
+D:\vs\Event Booking System\EventBookingBusinessLayer\bin\Debug\net8.0\EventBookingDataAccess.dll
+D:\vs\Event Booking System\EventBookingBusinessLayer\bin\Debug\net8.0\EventBookingDataAccess.pdb
+D:\vs\Event Booking System\EventBookingBusinessLayer\obj\Debug\net8.0\EventBookingBusinessLayer.csproj.AssemblyReference.cache
+D:\vs\Event Booking System\EventBookingBusinessLayer\obj\Debug\net8.0\EventBookingBusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs\Event Booking System\EventBookingBusinessLayer\obj\Debug\net8.0\EventBookingBusinessLayer.AssemblyInfoInputs.cache
+D:\vs\Event Booking System\EventBookingBusinessLayer\obj\Debug\net8.0\EventBookingBusinessLayer.AssemblyInfo.cs
+D:\vs\Event Booking System\EventBookingBusinessLayer\obj\Debug\net8.0\EventBookingBusinessLayer.csproj.CoreCompileInputs.cache
+D:\vs\Event Booking System\EventBookingBusinessLayer\obj\Debug\net8.0\EventBookingBusinessLayer.sourcelink.json
+D:\vs\Event Booking System\EventBookingBusinessLayer\obj\Debug\net8.0\EventBoo.0DF40EA8.Up2Date
+D:\vs\Event Booking System\EventBookingBusinessLayer\obj\Debug\net8.0\EventBookingBusinessLayer.dll
+D:\vs\Event Booking System\EventBookingBusinessLayer\obj\Debug\net8.0\refint\EventBookingBusinessLayer.dll
+D:\vs\Event Booking System\EventBookingBusinessLayer\obj\Debug\net8.0\EventBookingBusinessLayer.pdb
+D:\vs\Event Booking System\EventBookingBusinessLayer\obj\Debug\net8.0\ref\EventBookingBusinessLayer.dll

@@ -1,0 +1,2 @@
+D:\vs\Event Booking System\EBS_Business\obj\Debug\Business.csproj.AssemblyReference.cache
+D:\vs\Event Booking System\EBS_Business\obj\Debug\Business.csproj.CoreCompileInputs.cache

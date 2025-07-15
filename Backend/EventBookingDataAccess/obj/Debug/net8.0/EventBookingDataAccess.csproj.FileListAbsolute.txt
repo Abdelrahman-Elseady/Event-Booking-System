@@ -1,0 +1,13 @@
+D:\vs\Event Booking System\EventBookingDataAccess\bin\Debug\net8.0\EventBookingDataAccess.deps.json
+D:\vs\Event Booking System\EventBookingDataAccess\bin\Debug\net8.0\EventBookingDataAccess.dll
+D:\vs\Event Booking System\EventBookingDataAccess\bin\Debug\net8.0\EventBookingDataAccess.pdb
+D:\vs\Event Booking System\EventBookingDataAccess\obj\Debug\net8.0\EventBookingDataAccess.csproj.AssemblyReference.cache
+D:\vs\Event Booking System\EventBookingDataAccess\obj\Debug\net8.0\EventBookingDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs\Event Booking System\EventBookingDataAccess\obj\Debug\net8.0\EventBookingDataAccess.AssemblyInfoInputs.cache
+D:\vs\Event Booking System\EventBookingDataAccess\obj\Debug\net8.0\EventBookingDataAccess.AssemblyInfo.cs
+D:\vs\Event Booking System\EventBookingDataAccess\obj\Debug\net8.0\EventBookingDataAccess.csproj.CoreCompileInputs.cache
+D:\vs\Event Booking System\EventBookingDataAccess\obj\Debug\net8.0\EventBookingDataAccess.sourcelink.json
+D:\vs\Event Booking System\EventBookingDataAccess\obj\Debug\net8.0\EventBookingDataAccess.dll
+D:\vs\Event Booking System\EventBookingDataAccess\obj\Debug\net8.0\refint\EventBookingDataAccess.dll
+D:\vs\Event Booking System\EventBookingDataAccess\obj\Debug\net8.0\EventBookingDataAccess.pdb
+D:\vs\Event Booking System\EventBookingDataAccess\obj\Debug\net8.0\ref\EventBookingDataAccess.dll
